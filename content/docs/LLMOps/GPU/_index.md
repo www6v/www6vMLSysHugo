@@ -1,7 +1,7 @@
 ---
-title: 低精度
+title: GPU
 type: docs
-weight: 2
+weight: 5
 bookCollapseSection: true
 ---
 

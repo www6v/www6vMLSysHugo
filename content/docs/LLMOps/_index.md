@@ -1,7 +1,8 @@
 ---
-title: 低精度
+title: LLMOps
 type: docs
-weight: 2
+weight: 4
+bookFlatSection: true
 bookCollapseSection: true
 ---
 

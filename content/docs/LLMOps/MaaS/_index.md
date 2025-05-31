@@ -1,7 +1,7 @@
 ---
-title: 低精度
+title: MaaS
 type: docs
-weight: 2
+weight: 1
 bookCollapseSection: true
 ---
 
