@@ -16,12 +16,12 @@ categories:
 
 # GPU算力
 ### 免费[1]
-![free.JPG](free.JPG)
+![free.JPG](./images/free.JPG)
 
 + modelscope 100小时 GPU
 
 ### 专业收费[2]
-![cost.JPG](cost.JPG)
+![cost.JPG](./images/cost.JPG)
 
 
 # 显卡 
