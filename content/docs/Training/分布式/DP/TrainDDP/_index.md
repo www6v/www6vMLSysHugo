@@ -1,5 +1,5 @@
 ---
-title: (原理|实战)DDP
+title: (原理|实战)DDP +
 date: 2023-09-19 18:08:48
 weight: 3
 tags:
