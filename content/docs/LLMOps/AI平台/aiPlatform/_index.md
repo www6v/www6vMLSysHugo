@@ -1,5 +1,5 @@
 ---
-title: AI平台
+title: (原理)AI平台
 type: docs
 weight: 1
 ---
