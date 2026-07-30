@@ -1,6 +1,5 @@
 ---
 title: (阿里)AI 应用观测
-type: docs
 weight: 3
 ---
 

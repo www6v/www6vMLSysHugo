@@ -1,16 +1,8 @@
 ---
 title: LLMOps
-date: 2022-12-28 19:52:01
-weight: 4
-tags:
-  - LLMOps
-categories:
-  - AIGC  
-  - LLMOps
+weight: 50
 ---
 
-<p></p>
-<!-- more -->
 
 
 1. [LLMOps: Deployment and Learning in Production](https://drive.google.com/file/d/1LZXTrRdrloIqAJT6xaNTl4WQd6y95o7K/view)  

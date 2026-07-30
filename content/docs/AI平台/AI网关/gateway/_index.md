@@ -1,6 +1,5 @@
 ---
 title: (阿里) AI 网关
-type: docs
 weight: 2
 ---
 
