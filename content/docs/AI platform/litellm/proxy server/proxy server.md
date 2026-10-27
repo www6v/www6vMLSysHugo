@@ -1,16 +1,10 @@
 ---
-title: (实现)LiteLLM
-weight: 1
+title: Proxy Server
 ---
 
 
-# Arch[1]
-![arch.png](./images/arch.png)
-
-
-# Routing and Load Balancing[2]
-
-![router.png](./images/router.png)
+# LiteLLM Proxy Server
+[LiteLLM Proxy Server](https://github.com/www6v/gateway-ext/blob/master/litellm/proxy-server/proxy-server.md)
 
 
 
